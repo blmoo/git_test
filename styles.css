@@ -9,7 +9,9 @@ a {
     text-decoration: none;
 }
 
-
+.wrapper {
+    background-color: pink;
+}
 
 #top, #bottom {
     margin-right: 20px;
